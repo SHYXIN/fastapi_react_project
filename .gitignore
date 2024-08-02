@@ -134,3 +134,5 @@ dmypy.json
 # default files
 media/
 uploads/
+
+.conda/
